@@ -1,5 +1,5 @@
 #!/usr/bin/python
-from simple_game_header import *
+from simple_implementation import *
 
 x = simple_game(10,3)
 x.print_board()
